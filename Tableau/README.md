@@ -1,6 +1,6 @@
 # Unit 6: Data Visualization & Communication with Tableau
 The files in this folder are examples of my knowledge of using Tableau to communicate data analyses with stakeholders.  The file named Tableau_Public contains links to individual projects that can be viewed with a web browser. Select the file and then press 'download' to access the links.
-
+https://public.tableau.com/profile/ken.bentley#!/
 ## Topics covered in this unit were:
 
 • Data-Ink Ratio
