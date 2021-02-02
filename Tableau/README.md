@@ -11,7 +11,7 @@ The files in this folder are examples of my knowledge of using Tableau to commun
 • Exploratory Data Analysis in Tableau
 • Tableau parameters and calculations
 
-## These files demonstrate that I have achieved the following course outcomes:
+## Unit Outcomes:
 
 • A solid foundation of data visualization techniques – presenting data in a meaningful,
 impactful way to present an easy-to-understand story.
