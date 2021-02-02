@@ -1,5 +1,5 @@
 # Data_Analytics_2
-This GitHub represents the culmination of work used to complete the Data Analytics Micro-Credential Program at LaGuardia Community College.  This program was supported by the NYC Jobs CEO Council with its partners AIG, TIAA, Tishman Speyer, NYC Health+ Hospitals, and Health First.  
+This GitHub repository represents the culmination of work used to complete the Data Analytics Micro-Credential Program at LaGuardia Community College.  This program was supported by the NYC Jobs CEO Council with its partners AIG, TIAA, Tishman Speyer, NYC Health+ Hospitals, and Health First.  
 
 The objectives of this course are listed below:
 
